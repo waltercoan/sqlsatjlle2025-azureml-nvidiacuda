@@ -6,3 +6,5 @@ Palestra realizada no dia 05 de abril de 2025 no evento SQL Saturday Joinville 2
 [PowerPoint Deck](https://pt.slideshare.net/slideshow/palestra-sqlsat-2025-azure-ml-nvidia-cuda/277372465)
 
 ![Convite](./img/img.png)
+
+[🔐🔐🔐](https://gist.github.com/waltercoan/13ab3f437d5f6949406bfbf1f2167a23)
